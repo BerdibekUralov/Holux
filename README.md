@@ -1,12 +1,11 @@
 # 🏡 Responsive Real State Website
-## [Watch it on youtube](https://youtu.be/twRLgPsP1H0)
 ### 🏡 Responsive Real State Website
 
-- Responsive Real State Website Using HTML CSS & JavaScript
-- Contains animations when scrolling.
-- Includes a dark and light mode.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- Отзывчивый веб-сайт Real State с использованием HTML CSS и JavaScript
+- Содержит анимацию при прокрутке.
+- Включает темный и светлый режим.
+- Плавная прокрутка в каждом разделе.
+- Сначала разрабатывался по методологии Mobile First, а затем для настольных компьютеров.
+- Совместим со всеми мобильными устройствами и имеет красивый и приятный пользовательский интерфейс.
 
 ![preview img](/preview.png)
